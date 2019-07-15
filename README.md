@@ -92,7 +92,7 @@ Tutorials:
 
 ## Willy Bounce
 Creator: Bogle  
-Style: Old School
+Style: Middle School
 
 Tutorials:  
 [Elephant Man Teaches His Top 10 Dance Moves](https://youtu.be/jJ1Mz0itsec?t=343)  
